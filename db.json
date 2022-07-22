@@ -1,0 +1,213 @@
+{
+  "bookingTickets": [
+    {
+      "movieId": "M1001",
+      "movieName": "Thalapathy",
+      "fname": "Karthick",
+      "address": "57, Thippiran thotti Street,\nTrichy",
+      "mobile": "6380804239",
+      "show": "10:00AM",
+      "noOfTicket": "4",
+      "bookingCost": 800,
+      "id": 1
+    },
+    {
+      "movieId": "M1003",
+      "movieName": "Master",
+      "fname": "Karthick",
+      "address": "Kanyakumari",
+      "mobile": "6380804240",
+      "show": "10:00AM",
+      "noOfTicket": "1",
+      "bookingCost": 200,
+      "id": 2
+    },
+    {
+      "movieId": "M1005",
+      "movieName": "Don",
+      "fname": "Chippy",
+      "address": "Chenganerichi",
+      "mobile": "7654123987",
+      "show": "12:45PM",
+      "noOfTicket": "5",
+      "bookingCost": 1000,
+      "id": 3
+    },
+    {
+      "movieId": "M1006",
+      "movieName": "RRR",
+      "fname": "Shalini",
+      "address": "Kanyakumari",
+      "mobile": "6380804240",
+      "show": "06:00PM",
+      "noOfTicket": "3",
+      "bookingCost": 750,
+      "id": 4
+    },
+    {
+      "movieId": "M1001",
+      "movieName": "Thalapathy",
+      "fname": "Priya",
+      "address": "Trichy",
+      "mobile": "9865234512",
+      "show": "03:30PM",
+      "noOfTicket": "2",
+      "bookingCost": 400,
+      "id": 5
+    },
+    {
+      "movieId": "M1002",
+      "movieName": "Vikram",
+      "fname": "Mani",
+      "address": "Madurai",
+      "mobile": "7890654321",
+      "show": "06:00PM",
+      "noOfTicket": "2",
+      "bookingCost": 400,
+      "id": 6
+    },
+    {
+      "movieId": "M1001",
+      "movieName": "Thalapathy",
+      "fname": "Aravind",
+      "address": "Trichy",
+      "mobile": "6380804238",
+      "show": "03:30PM",
+      "noOfTicket": "5",
+      "bookingCost": 1000,
+      "id": 7
+    },
+    {
+      "movieId": "M1006",
+      "movieName": "RRR",
+      "fname": "Chippy",
+      "address": "Chenganacheri",
+      "mobile": "6380804238",
+      "show": "12:45PM",
+      "noOfTicket": "2",
+      "bookingCost": 500,
+      "id": 8
+    },
+    {
+      "movieId": "M1005",
+      "movieName": "Don",
+      "fname": "Suresh",
+      "address": "Trichy",
+      "mobile": "6279292998",
+      "show": "06:00PM",
+      "noOfTicket": "5",
+      "bookingCost": 1000,
+      "id": 9
+    },
+    {
+      "movieId": "M1004",
+      "movieName": "Manakatha",
+      "fname": "Krishna",
+      "address": "TV Kovil",
+      "mobile": "8776543211",
+      "show": "10:00PM",
+      "noOfTicket": "4",
+      "bookingCost": 600,
+      "id": 10
+    }
+  ],
+  "register": [
+    {
+      "fname": "Karthick",
+      "email": "karthick@gmail.com",
+      "district": "Trichy",
+      "mobile": "6380804239",
+      "uname": "karthick99",
+      "password": "Karthick@99",
+      "id": 1
+    },
+    {
+      "fname": "Shalini",
+      "email": "shalini@gmail.com",
+      "district": "Kanyakumari",
+      "mobile": "6380804238",
+      "uname": "Shalin99",
+      "password": "Shalini@99",
+      "id": 2
+    },
+    {
+      "fname": "Aravind",
+      "email": "aravind@gmail.com",
+      "district": "Trichy",
+      "mobile": "6379792998",
+      "uname": "aravind99",
+      "password": "Aravind@99",
+      "id": 3
+    },
+    {
+      "fname": "Priya",
+      "email": "priya@gmail.com",
+      "district": "Trichy",
+      "mobile": "6380804240",
+      "uname": "priya99",
+      "password": "Priya@99",
+      "id": 4
+    },
+    {
+      "fname": "Chippy",
+      "email": "chippy@gmail.com",
+      "district": "Chenganacheri",
+      "mobile": "7890654321",
+      "uname": "chipps99",
+      "password": "Chippy@99",
+      "id": 5
+    },
+    {
+      "fname": "Suresh",
+      "email": "suresh@gmail.com",
+      "district": "Trichy",
+      "mobile": "6279292998",
+      "uname": "suresh99",
+      "password": "Suresh@99",
+      "id": 6
+    },
+    {
+      "fname": "Mathan",
+      "email": "mathan@gmail.com",
+      "district": "Trichy",
+      "mobile": "9600712345",
+      "uname": "mathan99",
+      "password": "Mathan@99",
+      "id": 7
+    }
+  ],
+  "movieList": [
+    {
+      "movieId": "M1001",
+      "movieName": "Thalapathy",
+      "cost": "200",
+      "path": "https://www.wallsnapy.com/img_gallery/super-star-rajini-siva-smile-face-hd-wallpaper-651028.png",
+      "movieLink": "https://youtu.be/bbMLUadeMnA",
+      "id": 1
+    },
+    {
+      "movieId": "M1002",
+      "movieName": "Vikram",
+      "cost": "200",
+      "path": "https://pbs.twimg.com/media/E57pMzhVgAkFDYd.jpg:large",
+      "movieLink": "https://youtu.be/NXSigiaZ0W0",
+      "id": 2
+    },
+    {
+      "movieId": "M1003",
+      "movieName": "Master",
+      "cost": "200",
+      "path": "https://i.ytimg.com/vi/XD5ounZ8grQ/movieposter_en.jpg",
+      "movieLink": "https://youtu.be/UTiXQcrLlv4",
+      "id": 3
+    },
+    {
+      "movieId": "M1004",
+      "movieName": "Manakatha",
+      "cost": "150",
+      "path": "https://images-na.ssl-images-amazon.com/images/I/81nZupiwO3L._RI_.jpg",
+      "movieLink": "https://youtu.be/FDMX2rZFczQ",
+      "id": 4
+    }
+  ]
+}
