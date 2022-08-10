@@ -94,9 +94,10 @@ export default class DeleteBooking extends Component {
                   
                 </h3>
               </div>
-                <div className="card-body">
-                  <table className="table table-striped">
-                    <thead>
+                <div className="container mb-5 mt-3">
+                        <table className="table table-dark table-striped table-bordered" style={{width:"100%"}} >
+                          <thead>
+                  
                       <tr>
                         <th>Movie Id</th>
                         <th>Movie Name</th>
